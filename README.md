@@ -1,13 +1,13 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
-
+### Including External Pages (Hybrid)
+The WebViewOverlay approach allows the reuse and integration of existing mobile websites within a mobile application.
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
-
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/advanced-topics/integrating-server-generated-pages-hybrid-applications/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
