@@ -5,7 +5,7 @@
 	<key>protocol</key> 
 	<string>http</string>
 	<key>host</key>
-	<string>169.254.88.117</string>
+	<string>9.148.225.206</string>
 	<key>port</key>
 	<string>10080</string>
 	<key>wlServerContext</key>
@@ -29,7 +29,7 @@
 	<key>wlUid</key>
 	<string>aFgk1FSs+0Y4ZdbEOm6NgA==</string>			
 	<key>platformVersion</key>
-	<string>6.3.0.0</string>
+	<string>7.1.0.0</string>
 	<key>wlAppFamily</key>
 	<string></string>
 	<key>wlShareCookies</key>
